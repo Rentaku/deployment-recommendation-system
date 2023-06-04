@@ -45,7 +45,7 @@ Dalam lingkungan virtual yang diaktifkan, jalankan perintah berikut untuk mengin
 
 Jalankan aplikasi Flask dengan menjalankan perintah berikut:
 
-        python main.py
+        python3 main.py
 
 Dengan langkah-langkah di atas, Anda telah menyiapkan dan menjalankan aplikasi Python dengan Flask dan model machine learning. Pastikan untuk menggantikan main.py dengan nama file Python yang berisi kode aplikasi Flask Anda.
 
