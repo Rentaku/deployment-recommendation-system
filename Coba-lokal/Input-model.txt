@@ -1,0 +1,27 @@
+tipe_kendaraan_dict = {
+        'Mobil': 0,
+        'Motor': 1
+    }
+    jenis_kendaraan_dict = {
+        'suv': 5,
+        'matic': 2,
+        'mpv': 3,
+        'hatchback': 1,
+        'van': 6,
+        'bebek': 0,
+        'sedan': 4
+    }
+    business_dict = {
+        'Liburan/Weekend': 1,
+        'Daily Activity': 0,
+        'Travel': 2
+    }
+
+Example
+
+{
+    "feature1": "1",
+    "feature2": "Mobil",
+    "feature3": "suv",
+    "feature4": "Travel"
+}
